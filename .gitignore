@@ -1,0 +1,11 @@
+outputs
+models
+logs
+__pycache__
+wandb
+swanlog
+.codex
+data
+instruction_following_eval
+final_results-IFEVAL.jsonl
+MMLU-Pro-test.parquet
